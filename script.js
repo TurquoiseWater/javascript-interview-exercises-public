@@ -9,4 +9,4 @@
     {id: 6, name: 'Tesla', location: 'Palo Alto'}
   ]
 
-}())
+})()
