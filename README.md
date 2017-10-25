@@ -2,7 +2,7 @@
 
 ## First off; some brief information
 
-Following is a set of exercises that we would like you to complete. As there are plenty of different ways to approach each exercise it is important to understand that we are not looking for a specific answer; there is no right or wrong. The solution to each exercise will merely serve as the foundation for a discussion where we can learn about why you choose a specific logic or strategy. If you have any questions or something is unclear, please don't hesitate to get in touch with us prior to submitting your exercises.
+Following is a set of exercises that we would like you to complete and provide code examples. As there are plenty of different ways to approach each exercise it is important to understand that we are not looking for a specific answer; there is no right or wrong. The solution to each exercise will merely serve as the foundation for a discussion where we can learn about why you choose a specific logic or strategy. If you have any questions or something is unclear, please don't hesitate to get in touch with us prior to submitting your exercises.
 
 Note that we expect you to fork the repository and create a separate branch (named according accordingly) for each of the exercises.
 
