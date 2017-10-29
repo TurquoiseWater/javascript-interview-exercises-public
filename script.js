@@ -22,6 +22,7 @@
 				.addClass('li-name')
 				.attr('role', 'text')
 				.text(companies[idx].name + ", " + company.location)
+				// This works for 100 000 items as well.
 				.click(function() {
 				 alert("You clicked on: " + company.name);
 				})
@@ -29,7 +30,11 @@
 
   });
 
-	
+	/*
+	I would probably use ajax and let the client request parts of the 100 000 records with the help of a filter.
+	Better to let servers do the heavy stuff. Too much calculation in a mobile browsers might not be ideal. 
+	The user will hardly ever read all the 100,000 records and data transfer should stay as low as possible.
+	*/
 	
 })()
 
